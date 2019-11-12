@@ -11,6 +11,6 @@ __Description__: A currency conversion app that allows users to convert 33 diffe
 
 [View website](https://bit.ly/2NB8IF1)
 
-[View github files](https://bit.ly/2CyyH9V)
+[View github files](https://github.com/puentesca/CurrencyConverter/tree/master)
 
 # More coming soon...
