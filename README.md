@@ -13,6 +13,13 @@ __Description__: A currency conversion app that allows users to convert 33 diffe
 
 [View github files](https://github.com/puentesca/CurrencyConverter/tree/master)
 
-(As of January 1 2020, working on large-scale Java plugin with MySQL and various APIs that is not yet listed)
+### Minigames Plugin (UNDER DEVELOPMENT):
+__Created__: 12-18-19
+
+__Using__: Java, Spigot API, MySQL, Serialization
+
+__Description__: A Minecraft plugin that adds various minigames.
+
+[View github files](https://github.com/puentesca/Gladiator/tree/master)
 
 # More coming soon...
