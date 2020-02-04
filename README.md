@@ -13,7 +13,7 @@ __Description__: A currency conversion app that allows users to convert 33 diffe
 
 [View github files](https://github.com/puentesca/CurrencyConverter/tree/master)
 
-### Minigames Plugin (UNDER DEVELOPMENT):
+### Minigames Plugin (DEVELOPMENT ON HOLD):
 __Created__: 12-18-19
 
 __Using__: Java, Spigot API, MySQL, Serialization
